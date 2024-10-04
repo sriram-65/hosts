@@ -1,0 +1,8 @@
+{
+	"command": "node index",
+	"build_path": "E:\\Gemini Clone\\hosting",
+	"stack": "node18",
+	"env_variables": {},
+	"memory": 256,
+	"scripts": {}
+}

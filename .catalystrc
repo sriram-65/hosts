@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "7815000000018069",
+      "name": "ramhost",
+      "domain": {
+        "id": "50022581038",
+        "name": "ramhost-60030917375.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030917375",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
